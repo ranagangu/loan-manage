@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakePHP 3
 
 /vendor/*
@@ -23,3 +24,16 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+=======
+*.DS_Store
+*.log
+*.zip
+.idea
+.sass-cache/
+/nbproject/
+/nbproject/private/
+/node_modules/
+ad.js
+TODO
+test.html
+>>>>>>> 20177a7 (Initial commit)
