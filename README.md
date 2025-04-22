@@ -17,8 +17,8 @@ The Loan Management System provides a comprehensive solution for managing loans 
 
 - **Backend**: PHP
 - **Database**: MySQL or MariaDB
-- **Frontend**: HTML, CSS, JavaScript (Optional: Add frontend frameworks like Bootstrap if used)
-- **Others**: [Any other libraries or frameworks]
+- **Frontend**: HTML, CSS, JavaScript
+
 
 ## Features
 
@@ -28,7 +28,7 @@ The Loan Management System provides a comprehensive solution for managing loans 
 - Loan repayment tracking and history
 - Loan status updates (pending, approved, completed)
 - Admin dashboard for managing all loan-related activities
-- [Any additional features]
+
 
 ## Installation
 
